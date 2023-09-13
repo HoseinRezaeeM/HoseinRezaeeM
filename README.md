@@ -7,4 +7,4 @@
 <p align="center">
     <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,postgres,mongodb,html,css,js,bootstrap,git,docker,idea,linux" />
 </p>
- <img src="https://github-readme-stats.vercel.app/api?username=HoseinRezaeeM&show_icons=true&theme=blue&&count_private=true" />
+ <img src="https://github-readme-stats.vercel.app/api?username=HoseinRezaeeM&show_icons=true&theme=purple&&count_private=true" />
