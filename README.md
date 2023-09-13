@@ -1,5 +1,5 @@
 <h2 title="hey there" align="center"> Hey 👋, Hossein Rezaei is here!</h2>
-<h3 align="center"> a Baby<b > JAVA </b> DEVELOPER 👶</h3>
+
 
 <div id="header" align="center">
 <img src="Hossein Rezaei-animation.gif" width=400 />
@@ -7,4 +7,4 @@
 <p align="center">
     <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,postgres,mongodb,html,css,js,bootstrap,git,docker,idea,linux" />
 </p>
- <img src="https://github-readme-stats.vercel.app/api?username=hossein-sa&show_icons=true&theme=graywhite&&count_private=true" />
+ <img src="https://github-readme-stats.vercel.app/api?username=Hossein Rezaei&show_icons=true&theme=graywhite&&count_private=true" />
