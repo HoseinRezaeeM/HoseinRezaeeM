@@ -5,9 +5,9 @@
 <img src="Hossein Rezaei-animation.gif" width=400 />
 </div>
 <p align="center">
-<img alt="Coder GIF" height=250 width=450 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+<img alt="Coder GIF" height=350 width=450 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 </p>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,postgres,restapi,mongodb,html,css,bootstrap,git,docker,idea,linux" />
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,postgres,mongodb,html,css,bootstrap,git,docker,idea,linux" />
 </p>
  <img src="https://github-readme-stats.vercel.app/api?username=HoseinRezaeeM&show_icons=true&theme=purple&&count_private=true" />
