@@ -2,7 +2,7 @@
 <h3 align="center"> a Baby<b > JAVA </b> DEVELOPER 👶</h3>
 
 <div id="header" align="center">
-<img src="hossein Rezaei-animation.gif" width=400 />
+<img src="Hossein Rezaei-animation.gif" width=400 />
 </div>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,postgres,mongodb,html,css,js,bootstrap,git,docker,idea,linux" />
