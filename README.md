@@ -4,9 +4,9 @@
 <div id="header" align="center">
 <img src="Hossein Rezaei-animation.gif" width=400 />
 </div>
-<br>
-<img alt="Coder GIF" height=250 width=350 align="center" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
-<br>
+<p align="center">
+<img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+</p>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,postgres,mongodb,html,css,js,bootstrap,git,docker,idea,linux" />
 </p>
