@@ -12,6 +12,6 @@
 </p>
  <img src="https://github-readme-stats.vercel.app/api?username=HoseinRezaeeM&show_icons=true&theme=Green&&count_private=true" />
  <p>
-      <img height="500" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoseinRezaeeM&layout=compact&theme=blue" alt="HoseinRezaeeM" />
+      <img height="300" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoseinRezaeeM&layout=compact&theme=blue" alt="HoseinRezaeeM" />
  </p>
 
