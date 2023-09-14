@@ -14,5 +14,5 @@
    
 <div>
  <img src="https://github-readme-stats.vercel.app/api?username=HoseinRezaeeM&show_icons=true&theme=algolia&&count_private=true" />
- <img align="right" heigt="1200" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoseinRezaeeM&layout=compact&theme=algolia" alt="HoseinRezaeeM" />
+ <img align="right" heigt="1500" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoseinRezaeeM&layout=compact&theme=algolia" alt="HoseinRezaeeM" />
 </div>
