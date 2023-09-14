@@ -11,3 +11,4 @@
     <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,postgres,mongodb,html,css,bootstrap,git,github,jquery,docker,idea,linux" />
 </p>
  <img src="https://github-readme-stats.vercel.app/api?username=HoseinRezaeeM&show_icons=true&theme=Green&&count_private=true" />
+ <img width="600" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoseinRezaeeM&layout=compact&theme=radical" alt="HoseinRezaeeM" />
