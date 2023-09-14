@@ -10,8 +10,7 @@
 <p align="center">
     <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,postgres,mongodb,html,css,bootstrap,git,github,jquery,docker,idea,linux" />
 </p>
-<head>
-  <style>
+
     .image-container {
       display: flex;
     }
@@ -19,8 +18,6 @@
     .image-container img {
       margin-right: 10px;
     }
-  </style>
-</head>
 <div>
  <img src="https://github-readme-stats.vercel.app/api?username=HoseinRezaeeM&show_icons=true&theme=Green&&count_private=true" />
  <img align="right" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoseinRezaeeM&layout=compact&theme=blue" alt="HoseinRezaeeM" />
