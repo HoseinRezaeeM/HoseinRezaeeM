@@ -1,11 +1,11 @@
-<h2 title="hey there" align="center"> Hey 👋, Hossein Rezaei is here!</h2>
+<h2 title="hey there" align="center"> Hi 👋, Hossein Rezaei is here!</h2>
 
 
 <div id="header" align="center">
 <img src="Hossein Rezaei-animation.gif" width=400 />
 </div>
 <p align="center">
-<img alt="Coder GIF" height=450 width=500 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+<img alt="Coder GIF" height=400 width=500 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 </p>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,postgres,mongodb,html,css,bootstrap,git,github,jquery,docker,idea,linux" />
