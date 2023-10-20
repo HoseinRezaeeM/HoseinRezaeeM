@@ -2,7 +2,7 @@
 <h3 align="center">**** I'm Java Back-End Developer **** </h3>
  
 <div id="badges">
-  <a href="www.linkedin.com/in/hosein-rezaei-developer">
+  <a href="https://linkedin.com/in/hosein-rezaei-developer">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
