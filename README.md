@@ -17,10 +17,10 @@
  <img src="https://github-readme-stats.vercel.app/api?username=HoseinRezaeeM&show_icons=true&theme=algolia&&count_private=true" />
      <img align="right" heigt="1800" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoseinRezaeeM&layout=compact&theme=algolia" alt="HoseinRezaeeM" />
 </div>
- [[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "www.linkedin.com/in/hosein-rezaei-developer"
+ <div id="badges">
+  <a href="www.linkedin.com/in/hosein-rezaei-developer">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 
 
 
