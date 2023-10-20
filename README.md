@@ -6,7 +6,7 @@
 <img src="Hossein Rezaei-animation.gif" width=400 />
 </div>
 <p align="center">
-<img alt="Coder GIF" height=400 width=500 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+<img alt="Coder GIF" height=400 width=600 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 </p>
   <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
