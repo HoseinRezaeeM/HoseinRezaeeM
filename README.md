@@ -17,5 +17,5 @@
  <img src="https://github-readme-stats.vercel.app/api?username=HoseinRezaeeM&show_icons=true&theme=algolia&&count_private=true" />
      <img align="right" heigt="1800" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoseinRezaeeM&layout=compact&theme=algolia" alt="HoseinRezaeeM" />
 </div>
-![Snake animation](https://https://github.com/HoseinRezaeeM/HoseinRezaeeM/blob/output/github-contribution-grid-snake.svg)
+
 
