@@ -18,7 +18,7 @@
      <img align="right" heigt="1800" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoseinRezaeeM&layout=compact&theme=algolia" alt="HoseinRezaeeM" />
 </div>
  <div id="badges">
-  <a href="www.linkedin.com/in/hosein-rezaei-developer">
+  <a href="hosein-rezaei-developer">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
