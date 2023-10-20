@@ -3,7 +3,7 @@
  
 <div >
   <a href="https://linkedin.com/in/hosein-rezaei-developer">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="50" height="50"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="100" height="50"/>
   </a>
 </div>
 
