@@ -18,4 +18,4 @@
      <img align="right" heigt="1800" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoseinRezaeeM&layout=compact&theme=algolia" alt="HoseinRezaeeM" />
 </div>
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+
