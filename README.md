@@ -1,10 +1,11 @@
 <h2 title="hey there" align="center"> Hi , Hossein Rezaei is here!</h2>
 <h3 align="center">**** I'm Java Back-End Developer **** </h3>
  
-  <a align="center">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" align="center" href="www.linkedin.com/in/hosein-rezaei-developer"/>
+<div id="badges">
+  <a href="www.linkedin.com/in/hosein-rezaei-developer">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-
+</div>
 
 <div id="header" align="center">
 <img src="Hossein Rezaei-animation.gif" width=400 />
