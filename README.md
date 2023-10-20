@@ -20,12 +20,8 @@
  [[params.social]]
     icon = "linkedin"
     icon_pack = "fa"
-    link = "//linkedin.com/in/USERNAME"
+    link = "www.linkedin.com/in/hosein-rezaei-developer"
 
- [[params.social]]
-    icon = "github"
-    icon_pack = "fa"
-    link = "//github.com/USERNAME"
 
 
 
