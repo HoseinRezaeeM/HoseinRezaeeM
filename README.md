@@ -1,6 +1,11 @@
 <h2 title="hey there" align="center"> Hi , Hossein Rezaei is here!</h2>
 <h3 align="center">**** I'm Java Back-End Developer **** </h3>
- 
+<div>
+ <a href="https://linkedin.com/in/hosein-rezaei-developer">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="120" height="30"/>
+  </a>
+  <a href = "http://rezaeen77@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" width="120" height="30"></a>
+ </div>
 
 <div id="header" align="center">
 <img src="Hossein Rezaei-animation.gif" width=400 />
@@ -23,10 +28,7 @@
 <div>
  <img src="https://github-readme-stats.vercel.app/api?username=HoseinRezaeeM&show_icons=true&theme=algolia&&count_private=true" />
      <img align="right" heigt="1800" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoseinRezaeeM&layout=compact&theme=algolia" alt="HoseinRezaeeM" />
- <a href="https://linkedin.com/in/hosein-rezaei-developer">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="120" height="30"/>
-  </a>
-  <a href = "http://rezaeen77@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" width="120" height="30"></a>
+
 </div>
 
 
