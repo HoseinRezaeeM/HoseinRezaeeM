@@ -14,7 +14,7 @@
 <img alt="Coder GIF" height=400 width=650 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 </p>
   <div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="65" height="65"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="65" height="65"/>&nbsp;
    <img  src="https://github.com/HoseinRezaeeM/HoseinRezaeeM/blob/main/hibernate.svg" height=50 width=50 title="hibernate"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Spring" alt="posgresql" width="60" height="60"/>&nbsp;
