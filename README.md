@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Acme&size=35&pause=1000&color=CC25C2&background=38ABFF00&center=true&random=false&width=437&height=48&lines=Hi+Everyone+I'm+Hossein+Rezaei)](https://git.io/typing-svg)
+[<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Acme&size=35&pause=1000&color=1C35FF&background=38ABFF00&center=true&vCenter=true&random=false&width=437&height=48&lines=Hi+Everyone+I'm+Hossein+Rezaei" alt="Typing SVG" /></a>
 
 <h3 align="center">**** I'm Java Back-End Developer **** </h3>
 <div align="center">
