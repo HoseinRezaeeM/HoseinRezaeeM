@@ -1,4 +1,4 @@
- [![Typing SVG]( https://readme-typing-svg.demolab.com?font=Kaushan+Script&size=25&pause=1009&width=435&center=true&lines=Hi+Everyone%F0%9F%91%8BI%E2%80%99m+Hossein+Rezaei)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Acme&size=35&pause=1000&color=CC25C2&background=38ABFF00&center=true&random=false&width=437&height=48&lines=Hi+Everyone+I'm+Hossein+Rezaei)](https://git.io/typing-svg)
 
 <h3 align="center">**** I'm Java Back-End Developer **** </h3>
 <div align="center">
