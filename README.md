@@ -33,7 +33,7 @@
 
    
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=HoseinRezaeeM&show_icons=true&theme=algolia&&count_private=true" width="1200" height="800"/></div>
+ <img src="https://github-readme-stats.vercel.app/api?username=HoseinRezaeeM&show_icons=true&theme=algolia&&count_private=true" width="1200" height="500"/></div>
 
 
  
