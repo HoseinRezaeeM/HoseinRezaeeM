@@ -33,7 +33,7 @@
 <div align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=HoseinRezaeeM&show_icons=true&theme=algolia&&count_private=true" width="800" height="250"/></div><div>
                                                                                                                                                            
-<img src=" https://github-readme-stats.vercel.app/api/top-langs/?username=HoseinRezaeeM&langs_count=8&count_private=false&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="800" height="250" /></div>
+<img src=" https://github-readme-stats.vercel.app/api/top-langs/?username=HoseinRezaeeM&langs_count=8&count_private=false&layout=compact&theme=react&hide_border=true" width="800" height="250" /></div>
 
 
 
