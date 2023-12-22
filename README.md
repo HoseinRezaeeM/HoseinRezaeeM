@@ -31,9 +31,9 @@
 
    
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=HoseinRezaeeM&show_icons=true&theme=algolia&&count_private=true" width="800" height="250"/></div>
- <div align="center">                                                                                                                                                          
+ <img src="https://github-readme-stats.vercel.app/api?username=HoseinRezaeeM&show_icons=true&theme=algolia&&count_private=true" width="600" height="250"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoseinRezaeeM&layout=donut&theme=algolia" width="2000" height="250"/></div>
+
 
 
 
