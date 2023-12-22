@@ -32,4 +32,5 @@
    
 <div align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=HoseinRezaeeM&show_icons=true&theme=algolia&&count_private=true" width="800" height="250"/></div>
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HoseinRezaeeM&theme=dark&background=000000)](https://git.io/streak-stats)
+<img src="http://github-readme-streak-stats.herokuapp.com?user=HoseinRezaeeM&theme=dark&background=000000">
+
