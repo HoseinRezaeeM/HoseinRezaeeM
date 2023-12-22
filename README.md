@@ -32,5 +32,5 @@
    
 <div align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=HoseinRezaeeM&show_icons=true&theme=algolia&&count_private=true" width="800" height="250"/></div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[HoseinRezaeeM]&layout=compact&theme=vision-friendly-dark" alt="Top Languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=algolia">
 
