@@ -31,7 +31,7 @@
 
    
 <div>
- <img src="https://github-readme-stats.vercel.app/api?username=HoseinRezaeeM&show_icons=true&theme=algolia&&count_private=true" width="450" height="250"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=HoseinRezaeeM&show_icons=true&theme=algolia&&count_private=true" width="450" height="230"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoseinRezaeeM&layout=donut&theme=algolia"/></div>
 
 
