@@ -3,7 +3,7 @@
 <h3 align="center">**** I'm Java Back-End Developer **** </h3>
 <div align="center">
  <a href="https://linkedin.com/in/hosein-rezaei-developer">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="101" height="35"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="102" height="35"/>
   </a>
   <a href = "http://rezaeen77@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" width="100" height="35"></a>
  </div>
