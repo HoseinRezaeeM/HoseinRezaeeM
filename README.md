@@ -11,7 +11,8 @@
 <div id="header" align="center">
 <img src="Hossein Rezaei-animation.gif" width=420 />
 </div>
-<p align="center">
+<p align
+="center">
 <img alt="Coder GIF" height=400 width=700 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 </p>
   <div align="center">
@@ -24,7 +25,7 @@
    <img src="https://github.com/HoseinRezaeeM/HoseinRezaeeM/blob/main/maven.svg" title="maven"  width="62" height="70"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="60" height="60"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/oauth/oauth-plain.svg" title="oau" alt="linux" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="60" height="60"
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="60" height="60">
 
 />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="60" height="60"/>&nbsp;
