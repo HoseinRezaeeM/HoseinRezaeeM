@@ -33,9 +33,9 @@
      <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" title="jQuery" **alt="Git" width="60" height="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="70" height="70"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="Git" **alt="Git" width="50" height="50"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="ngnix" **alt="Git" width="70" height="70"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="ngnix" **alt="Git" width="70" height="60"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" title="ngnix" **alt="Git" width="60" height="60"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/rabbitmq/rabbitmq-original-wordmark.svg" title="ngnix" **alt="Git" width="60" height="60"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/rabbitmq/rabbitmq-original-wordmark.svg" title="ngnix" **alt="Git" width="70" height="90"/>
   
 </div>
 
