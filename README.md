@@ -14,7 +14,7 @@
 </div>
 <p align
 ="center">
-<img alt="Coder GIF" height=400 width=700 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+<img alt="Coder GIF" height=400 width=600 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 </p>
   <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="85" height="85"/>&nbsp;
