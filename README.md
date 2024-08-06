@@ -7,7 +7,6 @@
   <a href = "http://rezaeen77@gmail.com"><img loading="lazy"
  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" width="130" height="40"></a>
  </div>
-
 <div id="header" align="center">
 <img src="Hossein Rezaei-animation.gif" width=420 />
 </div>
