@@ -1,4 +1,5 @@
-<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Acme&size=25&pause=1000&color=2EE5FFFF&background=38ABFF00&center=true&random=false&width=400&height=40&lines=Hi+Everyone+I'm+Hossein+Rezaei" alt="Typing SVG" /></a>
+<a align="center"
+ href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Acme&size=25&pause=1000&color=2EE5FFFF&background=38ABFF00&center=true&random=false&width=400&height=40&lines=Hi+Everyone+I'm+Hossein+Rezaei" alt="Typing SVG" /></a>
 <h2 align="center"> *** I'm Java Software Developer ***</h2>
 <div align="center">
  <a href="https://linkedin.com/in/hosein-rezaei-developer">
