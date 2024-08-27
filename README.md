@@ -11,7 +11,8 @@
 <div id="header" align="center">
 <img src="Hossein Rezaei-animation.gif" width=420 />
 </div>
-<p align="center">
+<p align
+="center">
 <img alt="Coder GIF" height=400 width=600 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 </p>
   <div align="center">
